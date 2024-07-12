@@ -6,7 +6,7 @@ function Hero() {
         <div className={styles.heroContainer}>
             <img className={styles.heroBg} src={heroBg} alt="Background"/>
 
-            <h2 className={styles.names}>Гүлмира & Қыз ұзату</h2>
+            <h2 className={styles.names}>Гүлмира<br />Қыз ұзату</h2>
 
             <div className={styles.date}>
                 <p>09.08.2024</p>
