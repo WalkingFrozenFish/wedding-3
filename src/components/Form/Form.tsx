@@ -60,7 +60,8 @@ function Form() {
         }
 
         try {
-            const response = await axios.post("https://wedding-9b430-default-rtdb.firebaseio.com/.json", guestData)
+            // const response = await axios.post("https://wedding-9b430-default-rtdb.firebaseio.com/.json", guestData)
+            const response = await axios.post("https://wedding-v3-default-rtdb.europe-west1.firebasedatabase.app/.json", guestData)
 
             if (response.status === 200) {
                 setHideForm(true)

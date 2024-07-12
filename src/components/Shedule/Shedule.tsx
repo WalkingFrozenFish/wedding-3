@@ -6,17 +6,17 @@ function Shedule() {
             <div className={styles.sheduleWrapper}>
                 <p>
                     Той иелері <br/>
-                    Бауыржан & Ботагөз
+                    Бауырлары
                 </p>
 
                 <p>
                     Той күні<br/>
-                    13 шілде
+                    9 тамыз
                 </p>
 
                 <p>
                     Басталу уақыты<br/>
-                    Сағат 18:00
+                    Сағат 14:00
                 </p>
             </div>
         </div>

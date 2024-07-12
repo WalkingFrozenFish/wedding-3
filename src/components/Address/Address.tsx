@@ -4,9 +4,9 @@ function Address() {
     return (
         <div className={styles.addressWrapper}>
             <p>
-                Мекен-жайымыз
-                Қандыағаш қаласы
-                "Дастархан" мейрамханасы
+                Мекен - жайымыз<br />
+                Тоқмансай ауылы<br />
+                “Ауылым” мейрамханасы
             </p>
         </div>
     );
