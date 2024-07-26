@@ -4,7 +4,7 @@ import {useEffect, useState} from "react";
 let timerId: any = null
 
 function Timer() {
-    const deadline: any = new Date(2024, 7, 13);
+    const deadline: any = new Date(2024, 7, 9);
 
     const [timeRemaining, setTimeRemaining] = useState({
         days: 0,

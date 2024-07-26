@@ -10,7 +10,9 @@ import Form from "./components/Form/Form.tsx";
 function App() {
     return (
         <div className={styles.container}>
-            <Hero/>
+            <Flower>
+                <Hero />
+            </Flower>
 
             <Flower>
                 <Text />
